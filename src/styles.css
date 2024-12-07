@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+#box-1 {position: relative;}
+.box-2 {
+position: relative;
+top: 10px;
+left: 150px;
+color: blueviolet;
+}
